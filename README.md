@@ -13,6 +13,6 @@
 
 ## References 
 
-- [Software Architecture Patterns Quick Read](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
-- [Fundamentals of Software Architecture Book](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
-- [Software Architecture Fundamentals Video](https://learning.oreilly.com/videos/software-architecture-fundamentals/9781491998991)
+- [Software Architecture Patterns - Quick Read](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
+- [Fundamentals of Software Architecture - Book](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+- [Fundamentals of Software Architecture - Video](https://learning.oreilly.com/videos/software-architecture-fundamentals/9781491998991)
